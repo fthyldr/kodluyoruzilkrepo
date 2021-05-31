@@ -5,4 +5,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ### Installation
 ------------------------------------------------------  
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-> Alıntı yapılan metin.
+https://github.com/fthyldr/kodluyoruzilkrepo.git
