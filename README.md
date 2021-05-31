@@ -6,5 +6,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ------------------------------------------------------  
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ``` 
-print("git clone https://github.com/fthyldr/kodluyoruzilkrepo.git")
+git clone https://github.com/fthyldr/kodluyoruzilkrepo.git
 ``` 
